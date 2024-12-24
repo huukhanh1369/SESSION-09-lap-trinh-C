@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-    int array[10],i,currentLength=10,check=1;
+    int array[100],i,currentLength=100,check=1;
     for (int i = 0; i < currentLength ; i++)
     {
     printf("nhap vao array[%d]: ",i);
